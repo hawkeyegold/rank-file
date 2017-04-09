@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'board',
-  templateUrl: `./board.component.html`,
+  templateUrl: './board.component.html',
+  styleUrls: ['./board.component.css']
 })
-export class BoardComponent  { name = 'Angular'; }
+export class BoardComponent  { }
