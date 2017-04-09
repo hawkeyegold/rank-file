@@ -1,0 +1,12 @@
+.even{
+    background-color: #770000;
+}
+.odd{
+    background-color: #CCCCCC;
+}
+.square{
+    margin: 0px;
+    width: 64px;
+    height: 64px;
+}
+
