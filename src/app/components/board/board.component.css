@@ -6,7 +6,8 @@
 }
 .square{
     margin: 0px;
+    padding: 0px;
     width: 64px;
     height: 64px;
+    display: inline-block;
 }
-
